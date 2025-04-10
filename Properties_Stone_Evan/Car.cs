@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Properties_Stone_Evan
 {
-    internal class Class1
+     class Car
     {
+
+        private string model;
+
+        public string Model { get { return model; } set { model = value; } }
+
+        public string Make { get; set; }
+
     }
 }
