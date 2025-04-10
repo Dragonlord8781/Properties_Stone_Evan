@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties_Stone_Evan", "Properties_Stone_Evan\Properties_Stone_Evan.csproj", "{9CC65317-CAD3-46DF-A695-3FF0DD9CE4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC65317-CAD3-46DF-A695-3FF0DD9CE4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC65317-CAD3-46DF-A695-3FF0DD9CE4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC65317-CAD3-46DF-A695-3FF0DD9CE4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC65317-CAD3-46DF-A695-3FF0DD9CE4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54B582A-EB9D-44BD-BF4A-13562F60D489}
+	EndGlobalSection
+EndGlobal
