@@ -8,7 +8,7 @@ namespace Properties_Stone_Evan
 {
      class Car
     {
-
+        //sets up the properties for model and make
         private string model;
 
         public string Model { get { return model; } set { model = value; } }
